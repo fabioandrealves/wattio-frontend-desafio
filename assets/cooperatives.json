@@ -1,0 +1,29 @@
+[
+  {
+    "name": "EnerFácil",
+    "monthly_value": {
+      "min": 1000,
+      "max": 40000
+    },
+    "discount": 0.2,
+    "type_customer": "Todos"
+  },
+  {
+    "name": "EnerLimpa",
+    "monthly_value": {
+      "min": 10000,
+      "max": 80000
+    },
+    "discount": 0.25,
+    "type_customer": "Todos"
+  },
+  {
+    "name": "EnerGrande",
+    "monthly_value": {
+      "min": 40000,
+      "max": 100000
+    },
+    "discount": 0.3,
+    "type_customer": "PJ"
+  }
+]
